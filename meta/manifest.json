@@ -3,21 +3,21 @@
   "manifestVersion": "1.9",
   "version": "1.0.0",
   "showLoadingIndicator": true,
-  "id": "b15f97b7-1f9b-4bb7-ac9f-efddf27aae7b",
+  "id": "d826f687-e233-4962-b5a3-ffa2c149303e",
   "packageName": "com.microsoft.teams.videopp",
   "developer": {
     "name": "Bo Lu",
-    "websiteUrl": "https://github.com/lubobill1990/Teams-VideoApp-example",
-    "privacyUrl": "https://github.com/lubobill1990/Teams-VideoApp-example",
-    "termsOfUseUrl": "https://github.com/lubobill1990/Teams-VideoApp-example"
+    "websiteUrl": "https://github.com/alarsonms/Teams-VideoApp-example",
+    "privacyUrl": "https://github.com/alarsonms/Teams-VideoApp-example",
+    "termsOfUseUrl": "https://github.com/alarsonms/Teams-VideoApp-example"
   },
   "icons": {
     "color": "icon-color.png",
     "outline": "icon-outline.png"
   },
   "name": {
-    "short": "Teams VideoApp example",
-    "full": "Teams VideoApp example"
+    "short": "Fusion Avatars",
+    "full": "Fusion Avatars"
   },
   "description": {
     "short": "This repo demonstrate a minimal Teams video app.",
@@ -26,7 +26,7 @@
   "accentColor": "#FFFFFF",
   "configurableTabs": [
     {
-      "configurationUrl": "https://lubobill1990.github.io/Teams-VideoApp-example/app/configure.html",
+      "configurationUrl": "https://alarsonms.github.io/Teams-VideoApp-example/app/configure.html",
       "canUpdateConfiguration": true,
       "scopes": [
         "groupchat"
@@ -44,6 +44,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "lubobill1990.github.io"
+    "alarsonms.github.io"
   ]
 }

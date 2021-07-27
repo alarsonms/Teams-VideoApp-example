@@ -218,7 +218,7 @@ const workerPool = new WorkerPool(INITIAL_WORKER_COUNT, "./multithread-worker.js
 
 microsoftTeams.initialize(() => {}, [
     "https://localhost:9000",
-    "https://lubobill1990.github.io",
+    "https://alarsonms.github.io",
   ]);
   
   // This is the effect for processing
