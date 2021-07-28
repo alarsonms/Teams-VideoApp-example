@@ -1,9 +1,9 @@
-microsoftTeams.initialize(() => {}, ["https://localhost:9000", "https://alarsonms.github.io"]);
+microsoftTeams.initialize(() => {}, ["https://localhost:9000", "https://lubobill1990.github.io"]);
 
 // This is the effect for processing
 let appliedEffect = {
-  pixelValue: 100,
-  proportion: 2,
+  pixelValue: 50,
+  proportion: 1,
 };
 
 // This is the effect linked with UI
